@@ -12,4 +12,16 @@ let passwordGeneration = nomeUtente + cognomeUtente + colorePreferito + number;
 document.getElementById('print').innerHTML = passwordGeneration;
 
 
+//SECONDA SOLUZIONE
+
+let nomeUtente2 = prompt('Inserisci il tuo Nome');
+
+
+let cognomeUtente2 = prompt('Inserisci il tuo Cognome');
+
+let colorePreferito2 = prompt('Inserisci il tuo Colore preferito');
+
+const passGene = `${nomeUtente2}${cognomeUtente2}${colorePreferito2}${number} `;
+
+document.getElementById('print2').innerHTML = passGene;
 
