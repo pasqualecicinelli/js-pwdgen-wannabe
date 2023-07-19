@@ -13,6 +13,6 @@
     - Nome
     - Cognome
     - Colore preferito
-    - Inserire in una varibile il numero 21
+- Inserire in una varibile il numero 21
     - fare una concatenazione dei dati inseriti dall'utente con il  numero 21 così da generare una password
     - stampare a schermo il risultato
